@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 import random
-
+# Last Digit Checker.
 # Generate a random number between -10000 and 10000.
 number = random.randint(-10000, 10000)
 

@@ -1,11 +1,13 @@
 #!/usr/bin/python3
-# function that compute 'a' to the power of 'b' and return the value.
+# Function to compute 'a' to the power of 'b'
 def power_num(a, b):
     power = a**b
     return power
 
 
-a = int(input("Introduce a number: "))
-b = int(input("Introduce a number: "))
+# Take user input for 'a' and 'b'
+a = int(input("Introduce a number for 'a': "))
+b = int(input("Introduce a number for 'b': "))
 
+# Call the function to compute the power of 'a' raised to 'b'
 print(power_num(a, b))

@@ -1,13 +1,5 @@
 #!/usr/bin/python3
-# function that print the number from 1 to 100 separated by space
-"""If the number is multiple of 3:
-    -Change the number to 'Fizz' 
-   If the number is multiple of 5:
-    -Change the number to 'Buzz'
-   If ther number is multiple of 3 and 5
-    -Change the number to 'FizzBuzz' """
-
-
+# Function to print numbers from 1 to 100 with replacements for multiples of 3, 5, or both
 def prt_num():
     for n in range(1, 101):
         if n % 15 == 0:
@@ -19,4 +11,5 @@ def prt_num():
         print(n, end=" ")
 
 
+# Call the function to print the numbers
 prt_num()
