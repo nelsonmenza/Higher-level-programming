@@ -8,7 +8,7 @@ This repository contains a collection of exercises and projects showcasing my pr
 
 - **0x01-Python_if_else_loops_functions**: This directory contains exercises and projects focused on conditional statements, loops, and functions in Python.
 
-- **0x02-Python-import_modules**: This directory is currently in progress and will include exercises and projects related to importing modules in Python.
+- **0x02-Python-import_modules**: This directory contains files in a directory named "modules" to demonstrate how to use modules and create custom ones in Python.
 
 - **0x03-Python_data_structures**: This directory is also in progress and will feature exercises and projects centered around data structures in Python.
 
@@ -45,6 +45,26 @@ This directory contains 14 files that focus on more advanced programming concept
 - `10-functionPower.py`: Function to compute 'a' to the power of 'b'. (#!/usr/bin/python3)
 - `11-functionSum.py`: Function to compute the sum of 'a' and 'b'. (#!/usr/bin/python3)
 - `12-FizzBuzz.py`: Function to print numbers from 1 to 100 with replacements for multiples of 3, 5, or both. (#!/usr/bin/python3)
+
+### 0x02-Python_if_else_loops_functions
+
+This directory contains 7 files and 5 more files in a directory named "modules" to demonstrate how to use modules and create custom ones in Python:
+
+- `modules`:Directory with all the modules.
+
+  - `addModule.py`: Module for exercies 0-add.py
+  - `calcModule.py`: Module for exercies 1-calc.py
+  - `calcProModule.py`: Module for exercise 5-calcPro.py
+  - `fileEasyPrint.txt`: File for exercise 6-easyPrint.py
+  - `varModule.py`: Module for exercise 4-var.py
+
+- `0-add.py`: Function that sums two number and return the result.(#!/usr/bin/python3)
+- `1-calc.py`: Function that sum, sub, mul and div and return the result. (#!/usr/bin/python3)
+- `2-sysArgv.py`: Process the arguments from the command line and print the number of all arguments passed.(#!/usr/bin/python3)
+- `3-sumArgv.py`: Working on it.
+- `4-var.py`: A script that imports a variable from another script and prints its value.(#!/usr/bin/python3)
+- `5-calcPro.py`: A simple calculator program that imports a custom module to perform arithmetic operations.(#!/usr/bin/python3)
+- `6-easyPrint.py`: This script reads the contents of a file named "fileEasyPrint.txt". It then prints the contents of the file to the console.(#!/usr/bin/python3)
 
 ## Usage
 
