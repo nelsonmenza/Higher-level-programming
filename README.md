@@ -52,8 +52,8 @@ This directory contains 7 files and 5 more files in a directory named "modules" 
 
 - `modules`:Directory with all the modules.
 
-  - `addModule.py`: Module for exercies 0-add.py
-  - `calcModule.py`: Module for exercies 1-calc.py
+  - `addModule.py`: Module for exercise 0-add.py
+  - `calcModule.py`: Module for exercise 1-calc.py
   - `calcProModule.py`: Module for exercise 5-calcPro.py
   - `fileEasyPrint.txt`: File for exercise 6-easyPrint.py
   - `varModule.py`: Module for exercise 4-var.py
@@ -61,7 +61,7 @@ This directory contains 7 files and 5 more files in a directory named "modules" 
 - `0-add.py`: Function that sums two number and return the result.(#!/usr/bin/python3)
 - `1-calc.py`: Function that sum, sub, mul and div and return the result. (#!/usr/bin/python3)
 - `2-sysArgv.py`: Process the arguments from the command line and print the number of all arguments passed.(#!/usr/bin/python3)
-- `3-sumArgv.py`: Working on it.
+- `3-sumArgv.py`: A script to sum all arguments.
 - `4-var.py`: A script that imports a variable from another script and prints its value.(#!/usr/bin/python3)
 - `5-calcPro.py`: A simple calculator program that imports a custom module to perform arithmetic operations.(#!/usr/bin/python3)
 - `6-easyPrint.py`: This script reads the contents of a file named "fileEasyPrint.txt". It then prints the contents of the file to the console.(#!/usr/bin/python3)
@@ -80,7 +80,7 @@ In some cases, you might find files that import your own modules. These modules 
 
 ## Note
 
-The directories "0x02-Python-import_modules" and "0x03-Python_data_structures" are still in progress, and additional exercises and projects will be added in the near future.
+The directory "0x03-Python_data_structures" are still in progress, and additional exercises and projects will be added in the near future.
 
 ## License
 
