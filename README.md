@@ -66,6 +66,24 @@ This directory contains 7 files and 5 more files in a directory named "modules" 
 - `5-calcPro.py`: A simple calculator program that imports a custom module to perform arithmetic operations.(#!/usr/bin/python3)
 - `6-easyPrint.py`: This script reads the contents of a file named "fileEasyPrint.txt". It then prints the contents of the file to the console.(#!/usr/bin/python3)
 
+### 0x03-Python_data_structures
+
+This directory contains 13 files that focus on more on list, tuples and more concepts in Python:
+
+- `0-functionPrintList.py`: A script to validate if the last digit is negative or positive. (#!/usr/bin/python3)
+- `1-functionRetrivesElem.py`: Recursive Index Retrieval. (#!/usr/bin/python3)
+- `2-functionReplace.py`: This function replaces an element at a specific position. (#!/usr/bin/python3)
+- `3-functionPrintRevSort.py`: Function that print all the intergers of a list in reverse order. (#!/usr/bin/python3)
+- `4-functionReplaceLst.py`: Function to replace an element at a specific position. (#!/usr/bin/python3)
+- `5-functionDeleteCharC.py`: Deletes all occurrences of the letter 'c' (case insensitive) from a given string. (#!/usr/bin/python3)
+- `6-functionMatrixOfInt.py`: Join each list with a space and print as a single string. (#!/usr/bin/python3)
+- `7-functionAddTuples.py`:Function that takes two tuples as input and returns a new tuple with the element-wise sum of the input tuples. (#!/usr/bin/python3)
+- `8-functionTupleLength.py`: Function that changes a character to uppercase. (#The code creates a tuple with the length and first character of a given string, returning None if the string is empty./usr/bin/python3)
+- `9-functionBiggestInt.py`: Function to find the maximum value in a list. (#!/usr/bin/python3)
+- `10-functionMult2.py`: Function returns a list with all the multiples of 2 in the input list. (#!/usr/bin/python3)
+- `11-functionDeleteItem.py`: The code deletes an item from a list at a specified index and prints both the original list and the updated list. (#!/usr/bin/python3)
+- `12-functionSwitchValue.py`: Swaps the values of two variables. (#!/usr/bin/python3)
+
 ## Usage
 
 Feel free to explore the exercises and projects in each directory. You can navigate to a specific directory and review the individual files to understand the concepts covered.
@@ -80,7 +98,7 @@ In some cases, you might find files that import your own modules. These modules 
 
 ## Note
 
-The directory "0x03-Python_data_structures" are still in progress, and additional exercises and projects will be added in the near future.
+The directory "0x04-Python_more_data_structures" are still in progress, and additional exercises and projects will be added in the near future.
 
 ## License
 
